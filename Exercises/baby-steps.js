@@ -1,0 +1,1 @@
+console.log(process.argv.reduce((a, c) => !isNaN(parseInt(c)) ? a + parseInt(c) : a, 0))
