@@ -1,5 +1,6 @@
 <h1>Guided Inquiry 11<h1>
-<h3>Completed all challenges:<h3>
+
+Completed all challenges:
 
 Easy
 Medium
