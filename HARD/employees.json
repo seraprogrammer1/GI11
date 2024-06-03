@@ -1,0 +1,72 @@
+[
+    {
+        "employeeID": 101,
+        "name": "Alice Johnson",
+        "salary": 45000,
+        "department": "Delivery",
+        "job": "Delivery Driver"
+    },
+    {
+        "employeeID": 102,
+        "name": "Bob Smith",
+        "salary": 48000,
+        "department": "Delivery",
+        "job": "Delivery Driver"
+    },
+    {
+        "employeeID": 103,
+        "name": "Charlie Davis",
+        "salary": 47000,
+        "department": "Delivery",
+        "job": "Delivery Driver"
+    },
+    {
+        "employeeID": 104,
+        "name": "David Wilson",
+        "salary": 52000,
+        "department": "Trucking",
+        "job": "Truck Driver"
+    },
+    {
+        "employeeID": 105,
+        "name": "Ella Brown",
+        "salary": 54000,
+        "department": "Trucking",
+        "job": "Truck Driver"
+    },
+    {
+        "employeeID": 106,
+        "name": "Frank Taylor",
+        "salary": 53000,
+        "department": "Trucking",
+        "job": "Truck Driver"
+    },
+    {
+        "employeeID": 107,
+        "name": "Grace Lee",
+        "salary": 41000,
+        "department": "Warehouse",
+        "job": "Warehouse Worker"
+    },
+    {
+        "employeeID": 108,
+        "name": "Hannah Martin",
+        "salary": 42000,
+        "department": "Warehouse",
+        "job": "Warehouse Worker"
+    },
+    {
+        "employeeID": 109,
+        "name": "Isaac Clark",
+        "salary": 40000,
+        "department": "Warehouse",
+        "job": "Warehouse Worker"
+    },
+    {
+        "employeeID": 110,
+        "name": "Jack Harris",
+        "salary": 43000,
+        "department": "Warehouse",
+        "job": "Warehouse Worker"
+    }
+]
