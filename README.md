@@ -1,4 +1,4 @@
-<h1>Guided Inquiry 11<h1>
+<h1>Guided Inquiry 11</h1>
 
 Completed all challenges:
 
